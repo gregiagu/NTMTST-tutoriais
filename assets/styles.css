@@ -18,13 +18,13 @@ code {
     text-justify: auto;
 }
 
-.resposive-img, .logotype-container {
+.responsive-img, .logotype-container {
     display: block;
     margin: 0 auto;
     text-align: center;
 }
 
-.resposive-img img, .logotype-container img {
+.responsive-img img, .logotype-container img {
     width: 100%;
     height: auto;
 }
@@ -54,7 +54,7 @@ code {
         max-width: 700px;
     }
 
-    .resposive-img img {
+    .responsive-img img {
         max-width: 1366px;
     }
 
